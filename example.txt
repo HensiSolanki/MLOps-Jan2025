@@ -1,2 +1,2 @@
-"This is an example file for MLOps assignment."
+Completely replaced content in g24ait116 branch.
 Added a new line in g24ait114 branch.
